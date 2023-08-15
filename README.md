@@ -11,4 +11,4 @@ The goals of this assignment include:
 duplicates (multiple occurrences of the same element),
 • learning how to approach an algorithm, and how to develop tests to demonstrate the
 functionality of code, and familiarizing yourself with the CS300 grading tests.
-the source code can be found in the 'P01 Shopping cart1/src/' directory.
+The source code can be found in the 'P01 Shopping cart1/src/' directory.
